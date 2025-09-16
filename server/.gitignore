@@ -1,0 +1,39 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
+
+# Dependency folders
+node_modules/
+venv/
+.env
+
+# Build output
+dist/
+build/
+out/
+
+# IDE specific
+.vscode/
+.idea/
+*.iml
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Java
+*.class
+*.jar
+*.war
+
+# Backup files
+*.bak
+*.tmp
+*.swp
